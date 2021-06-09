@@ -2,7 +2,7 @@ package base;
 
 /*
  *  UCF COP3330 Summer 2021 Assignment 1 Solution
- *  Copyright 2021 first_name last_name
+ *  Copyright 2021 Ann Binus
 
 * Exercise 6 - Retirement Calculator
 Your computer knows what the current year is, which means you can incorporate that into your programs. You just have to figure out how your programming language can provide you with that information.
